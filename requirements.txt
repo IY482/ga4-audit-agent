@@ -1,0 +1,15 @@
+# GA4 自動稽核 Agent - 相依套件
+
+# Google Analytics
+google-analytics-admin==0.22.0
+google-analytics-data==0.18.0
+google-auth==2.29.0
+
+# Anthropic Claude API
+anthropic>=0.25.0
+
+# PDF 產生
+reportlab==4.1.0
+
+# 工具
+python-dotenv==1.0.1
